@@ -1,4 +1,4 @@
 MarioKart
 =========
 
-The official repo for the MarioKart plugin by storm345 and stormdev
+The official source for the MarioKart plugin by BGHDNetwork and The Emerald Pig
